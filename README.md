@@ -135,20 +135,10 @@ Contributions are welcome! Please fork the repo and submit a pull request.
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📞 Contact
-For questions or suggestions, feel free to connect:
-
 GitHub: vedkap26
 
-Email: vedant@example.com (replace with your real email)
+Email: kapoorvedant181@gmail.com
 
-yaml
-Copy
-Edit
-
----
-
-Would you like a **microservice architecture diagram** (PNG) added to this as an image hosted on GitHub or elsewhere? I can help generate it next.
 
 
 
